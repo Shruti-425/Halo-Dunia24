@@ -1,6 +1,5 @@
 def test_1(string =""): 
-	
-	# initializing the substring 
+
 	substring = "" 
 	testList = [] 
 	initial = 0
